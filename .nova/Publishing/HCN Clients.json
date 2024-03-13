@@ -1,0 +1,11 @@
+{
+  "identifier" : "0A04529C-A8BF-4FE9-9FBB-7D509C9033A7",
+  "ignoredFilePatterns" : [
+    "build\/js\/bootstrap.min.js copy.map",
+    "build\/index copy.html"
+  ],
+  "localPath" : "build",
+  "remotePath" : "\/home\/cjvnkxjgz2dn\/hmmaalliance.com",
+  "server" : "HCN Clients",
+  "usesPublishing" : true
+}
